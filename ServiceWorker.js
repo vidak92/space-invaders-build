@@ -1,9 +1,9 @@
 const cacheName = "Smiling Goat Studios-Space Invaders-0.2.0";
 const contentToCache = [
     "Build/SpaceInvaders_Web.loader.js",
-    "Build/SpaceInvaders_Web.framework.js.gz",
-    "Build/SpaceInvaders_Web.data.gz",
-    "Build/SpaceInvaders_Web.wasm.gz",
+    "Build/SpaceInvaders_Web.framework.js.unityweb",
+    "Build/SpaceInvaders_Web.data.unityweb",
+    "Build/SpaceInvaders_Web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
